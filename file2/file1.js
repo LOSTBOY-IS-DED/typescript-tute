@@ -1,3 +1,4 @@
+"use strict";
 // todo 1 : wap to add two numbers
 // todo 2 : How to catch errors and solve it 
 // todo 3 : ts config file 
